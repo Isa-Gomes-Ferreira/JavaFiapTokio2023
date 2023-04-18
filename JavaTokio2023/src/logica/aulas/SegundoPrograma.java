@@ -16,6 +16,7 @@ public class SegundoPrograma {
 		
 		System.out.println("Bem vindo, " + nome);
 
+		entrada.close();
 	}
-
+	
 }
