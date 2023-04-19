@@ -16,6 +16,7 @@ public class Exercicio04 {
 
 		System.out.println("Olá, " + nome + ". Você tem " + idade + " anos.");
 
+		entrada.close();
 	}
 
 }
