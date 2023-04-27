@@ -11,12 +11,12 @@ public class Exercicio03 {
 		System.out.println("Digite o seu nome completo: ");
 		String nome = entrada.nextLine();
 		
-		System.out.println("Digite um dos seguintes valores para declarar o seu gênero: ");
-		System.out.println("-----------------------------------------------------------");
-		System.out.println("[ M ] para masculino;\r\n"
-							+ "[ F ] para feminino;\r\n"
-							+ "[ O ] outro;\r\n"
-							+ "[ N ] não responder.");
+		System.out.println("Digite um dos seguintes valores para selecionar o seu gênero: ");
+		System.out.println("------------------------------------------------------------- ");
+		System.out.println("[ M ] - masculino;\r\n"
+							+ "[ F ] - feminino;\r\n"
+							+ "[ O ] - outro;\r\n"
+							+ "[ N ] - não responder.");
 	
 		char genero = entrada.nextLine().charAt(0);
 		
