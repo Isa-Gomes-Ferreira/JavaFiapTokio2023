@@ -9,7 +9,7 @@ public class Exercicio09 {
 		Scanner sc = new Scanner (System.in);
 		
 		System.out.println("Digite um número: ");
-		int num = sc.nextInt();
+		//int num = sc.nextInt();
 		
 		/*
 		for (int i = 0; i <) {
